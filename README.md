@@ -50,7 +50,7 @@ It includes calculated columns, measures, time intelligence, and matrix-based an
 - Subtotals
 - Grand Totals
 - Time-based Comparison
-![Output]()
+![Output](Photo.png)
 
   
 ## 📂 Project File
